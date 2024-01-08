@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "//DanielMitchell444.github.io/Pokemon-Card/static/css/main.3b8adf17.css",
+    "main.js": "//DanielMitchell444.github.io/Pokemon-Card/static/js/main.d5206991.js",
+    "static/js/787.6cb607c6.chunk.js": "//DanielMitchell444.github.io/Pokemon-Card/static/js/787.6cb607c6.chunk.js",
+    "static/media/PressStart2P-Regular.ttf": "//DanielMitchell444.github.io/Pokemon-Card/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
+    "static/media/card-back.png": "//DanielMitchell444.github.io/Pokemon-Card/static/media/card-back.8244f0fd56341c3b101b.png",
+    "static/media/logo.svg": "//DanielMitchell444.github.io/Pokemon-Card/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "//DanielMitchell444.github.io/Pokemon-Card/index.html",
+    "main.3b8adf17.css.map": "//DanielMitchell444.github.io/Pokemon-Card/static/css/main.3b8adf17.css.map",
+    "main.d5206991.js.map": "//DanielMitchell444.github.io/Pokemon-Card/static/js/main.d5206991.js.map",
+    "787.6cb607c6.chunk.js.map": "//DanielMitchell444.github.io/Pokemon-Card/static/js/787.6cb607c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b8adf17.css",
+    "static/js/main.d5206991.js"
+  ]
+}
